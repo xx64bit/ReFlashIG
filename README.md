@@ -32,7 +32,7 @@ Download: `wget "https://raw.githubusercontent.com/the-red-team/ReFlashIG/master
  * Check your list of proxies. If you want more, repeat steps **1** and **2**
  
  
-##### Running ReFlashIG.py using your proxy and password lists
+##### Running ReFlashIG.py using swtich options
 ```
 
 ╔════════ ReFlashIG ════════╗
@@ -60,3 +60,9 @@ Options:
 Example: `python ReFlash.py -u the.red.team2 -p passwords.txt -x proxies.txt -t 5 -v`
 
 Example: `python ReFlash.py -m` (walks through setup)
+
+##### Running ReFlashIG.py using the walk-through method
+
+Run: `python ReFlash.py -m`
+
+
