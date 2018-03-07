@@ -11,6 +11,11 @@ Instagram Password Cracker
 * Multi-Threaded cracking
 * Run with switches or open menu
 
+### Requirements(for use on the Linux operating system)
+* Python 2.7
+* Basic knowledge of the Linux command line
+* Connection to the internet
+
 ### Setup
 
 Download: `wget "https://raw.githubusercontent.com/the-red-team/ReFlashIG/master/ReFlashIG.py" -O ReFlashIG.py`  
