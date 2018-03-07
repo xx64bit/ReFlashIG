@@ -27,6 +27,7 @@ Options:
 ```
   
 Example: `python ReFlash.py -u the.red.team2 -p passwords.txt -x proxies.txt -t 5 -v`
+
 Example: `python ReFlash.py -m` (walks through setup)
 
 Download: wget "https://raw.githubusercontent.com/the-red-team/ReFlashIG/master/ReFlashIG.py" -O ReFlashIG.py
