@@ -1,5 +1,6 @@
 # ReFlashIG
-Instagram Password Cracker with Proxies
+![alt text](https://raw.githubusercontent.com/the-red-team/ReFlashIG/master/reflash.PNG)
+Instagram Password Cracker
 
 ### Features
 * Imports and uses proxies(keeps you off of Instagram's blacklist)
