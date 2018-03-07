@@ -31,6 +31,8 @@ Download: `wget "https://raw.githubusercontent.com/the-red-team/ReFlashIG/master
 **2.** Run: `python test_proxies.py -x output.txt -o proxies.txt -t 5`
  * This will take the list of proxies from `output.txt` and save the proxies that beat a timeout of 5 seconds to `proxies.txt`
  * Check your list of proxies. If you want more, repeat steps **1** and **2**
+ ![alt text](https://raw.githubusercontent.com/the-red-team/ReFlashIG/master/screen_test_1.JPG)  
+ ![alt text](https://raw.githubusercontent.com/the-red-team/ReFlashIG/master/screen_test_2.JPG)
  
  
 ##### Running ReFlashIG.py using swtich options
@@ -58,12 +60,14 @@ Options:
   -i                Information page
 ```
   
-Example: `python ReFlash.py -u the.red.team2 -p passwords.txt -x proxies.txt -t 5 -v`
+Example: `python ReFlash.py -u the.red.team2 -p passwords.txt -x proxies.txt -t 5 -v`  
+![alt text](https://raw.githubusercontent.com/the-red-team/ReFlashIG/master/screen_run_1.JPG)  
+![alt text](https://raw.githubusercontent.com/the-red-team/ReFlashIG/master/screen_run_2.JPG)
 
-Example: `python ReFlash.py -m` (walks through setup)
 
 ##### Running ReFlashIG.py using the walk-through method
 
 Run: `python ReFlash.py -m`
+ * This will walk you through a step-by-step process to run a password cracking session.
 
 
