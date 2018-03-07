@@ -3,14 +3,6 @@ Instagram Password Cracker
 
 # Usage
 `
-╔════════ ReFlashIG ════════╗
-║ ╦═╗┌─┐╔═╗┬  ┌─┐┌─┐┬ ┬╦╔═╗ ║
-║ ╠╦╝├┤ ╠╣ │  ├─┤└─┐├─┤║║ ╦ ║
-║ ╩╚═└─┘╚  ┴─┘┴ ┴└─┘┴ ┴╩╚═╝ ║
-╚═══════════════════════════╝
-
- Developed By: @the.red.team2
-
 Usage: ReFlashIG.py [-i] [-m] [-v] [-c <thread count>] -u <username> -p <password file> -x <proxy file> -t <timeout>
 
 Options:
