@@ -2,10 +2,10 @@
 Instagram Password Cracker
 
 ### Features
-* Imports proxies(keeps you off of Instagram's blacklist)
+* Imports and uses proxies(keeps you off of Instagram's blacklist)
 * Imports passwords
 * Sorts and cleans proxies and passwords
-* Provides after action reports
+* Provides after-action reports
 * Notifies on "Suspicious Login Attempt Flags"
 * Apply custom timeout values
 * Multi-Threaded cracking
