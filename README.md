@@ -26,7 +26,7 @@ Download: `wget "https://raw.githubusercontent.com/the-red-team/ReFlashIG/master
 ##### Setting up a proxy list
 **1.** Run: `python get_proxies.py output.txt 10`  
  * This will save a list of 200 proxies to `output.txt`  
- ![alt text](https://raw.githubusercontent.com/the-red-team/ReFlashIG/master/screen_get.jpg)
+ ![alt text](https://raw.githubusercontent.com/the-red-team/ReFlashIG/master/screen_get.JPG)
 
 **2.** Run: `python test_proxies.py -x output.txt -o proxies.txt -t 5`
  * This will take the list of proxies from `output.txt` and save the proxies that beat a timeout of 5 seconds to `proxies.txt`
