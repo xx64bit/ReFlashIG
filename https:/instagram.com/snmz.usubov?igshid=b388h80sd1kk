@@ -1,4 +1,4 @@
-# ReFlashIG
+https://instagram.com/snmz.usubov?igshid=b388h80sd1kk
 ![alt text](https://raw.githubusercontent.com/the-red-team/ReFlashIG/master/reflash.PNG)
 Instagram Password Cracker
 
@@ -56,7 +56,7 @@ Usage: ReFlashIG.py [-i] [-m] [-v] [-c <thread count>] -u <username> -p <passwor
 
 Options:
   -h, --help        show this help message and exit
-  -u USERNAME       Instagram username to target
+  -u USERNAME       Instagram @snmz.usubov
   -p PASSWORD_FILE  File containing list of passwords
   -x PROXY          File containing list of proxies
   -t TIMEOUT        Instagram connection timeout
